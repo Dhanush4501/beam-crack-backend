@@ -1,7 +1,7 @@
 {
   "name": "auth-server",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "Server.js",
   "type": "commonjs",
   "scripts": {
     "dev": "nodemon Server.js",
