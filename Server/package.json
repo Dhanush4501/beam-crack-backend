@@ -1,11 +1,11 @@
 {
   "name": "auth-server",
   "version": "1.0.0",
-  "main": "Server.js",
+  "main": "server.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "nodemon Server.js",
-    "start": "node Server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
